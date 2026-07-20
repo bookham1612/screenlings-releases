@@ -4,3 +4,4 @@
 0.0.3 แก้ระบบ update
 0.0.4 ฉากวิ่งใหม่
 0.0.5 add fram + desktop event + bug pet
+0.0.6 new  farm asset test
