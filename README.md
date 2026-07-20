@@ -3,3 +3,4 @@
 0.0.2 แก้ม้า
 0.0.3 แก้ระบบ update
 0.0.4 ฉากวิ่งใหม่
+0.0.5 add fram + desktop event + bug pet
