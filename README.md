@@ -6,3 +6,4 @@
 0.0.5 add fram + desktop event + bug pet
 0.0.6 new  farm asset test
 0.0.7 farm v2
+0.0.8 login system new pet
