@@ -8,3 +8,4 @@
 0.0.7 farm v2
 0.0.8 login system new pet
 0.0.9 guest login
+0.0.10 fix bug
