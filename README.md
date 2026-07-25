@@ -9,3 +9,4 @@
 0.0.8 login system new pet
 0.0.9 guest login
 0.0.10 fix bug
+0.0.11 fix bug train
